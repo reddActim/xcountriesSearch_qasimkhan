@@ -1,0 +1,16 @@
+.countryCard {
+  width: 126px;
+  height: 145px;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+   overflow: hidden;
+  text-align: center;
+  padding: 5px;
+}
+div h3{margin : 0px;
+     display : inline}
