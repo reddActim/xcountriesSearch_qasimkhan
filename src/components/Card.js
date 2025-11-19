@@ -9,7 +9,7 @@ export default function Card({ name, img, abbr }){
             alt={abbr}
             width={"100px"}
             height={"100px"} />
-            <h3>{name}</h3>
+            <span><h3>{name}</h3></span>
         </div>
     </>)
 }
